@@ -11,7 +11,7 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="box"><h1>Praveen Nair</h1></div>
+        <div class="box"><h1>Ayaan Khadir</h1></div>
         <div class="box">
           <ul>
             <li><a href="#home">Home</a></li>
